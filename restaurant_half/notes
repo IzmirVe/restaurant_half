@@ -1,0 +1,20 @@
+
+
+
+Organizimi i te dhenave ne program do te ndjeke rolin e nje matrice 2 dimensionale
+
+cdo informacion i prodhuar nga data do te organizohet ne nje standart te caktuar per te gjithe programin
+--kjo e ben programin me te lexueshem dhe standartizimi lejon qe bugs te indetifikohen me shpejt , gjithashtu programi do shrkuhet me shpejt.
+
+
+dataset do te trajtohet si ne projektin "restaurant_quarter"
+
+
+arsyeja pse nk standartizojme te gjithe files ne nje extract code eshte per arsye convertimi te variablave nga string ne float/int etj.
+
+
+
+
+
+
+
